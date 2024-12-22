@@ -1,8 +1,8 @@
 # csongor.gedeon.research
 
 # Biography
-## CV
-## Biography
+- CV
+- Biography
 
 # Research Interests
 
@@ -10,4 +10,4 @@
 
 # Teaching
 
-# Other comments
+# Other/ comments
