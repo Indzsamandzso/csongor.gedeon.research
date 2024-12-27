@@ -3,7 +3,7 @@
 # Biography
 - CV
 - Biography
-- (ORCID: 0000-0003-4027-2409); ResearchGate: Csongor Gedeon (https://www.researchgate.net/profile/Csongor-Gedeon); Google Scholar (https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en)
+- ORCID: 0000-0003-4027-2409; ResearchGate: Csongor Gedeon, https://www.researchgate.net/profile/Csongor-Gedeon; Google Scholar, https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en
 
 # Research Interests (last 5 years)
 
