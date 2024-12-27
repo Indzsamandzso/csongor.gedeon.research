@@ -17,8 +17,12 @@
 # Teaching
 - University of Dubuque, Dubuque, Iowa, USA
   Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
-  Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits, 
+  
+  Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits,
+  
   Summer Course (Semester), EVS475 Science Research Techniques (Laboratory), 1 credit
+- Thesis announcer at the Doctoral School of Environmental Sciences at Eötvös Loránd University, Budapest, Hungary.
+  
 
 
 # Other/ comments
