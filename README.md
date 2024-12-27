@@ -8,8 +8,8 @@
 # Research Interests (last 5 years)
 
 # Publications
-## Published papers
-  Conservation and behavioural ecology, natural history, conservation genetics, and reintroduction biology of European ground squirrels and species alike: 
+## Published papers/chapter, etc. (grouped by topic)
+### Conservation and behavioural ecology, natural history, conservation genetics, and reintroduction biology of European ground squirrels and species alike: 
 - [Gedeon CI, Árvai M, Szatmári G, Brevik EC, Takáts T, Kovács ZA, Mészáros J. Identification and Counting of European Souslik Burrows from UAV Images by Pixel-Based Image Analysis and Random Forest Classification: A Simple, Semi-Automated, yet Accurate Method for Estimating Population Size. Remote Sensing. 2022, 14(9):2025.(https://doi.org/10.3390/rs14092025](https://www.mdpi.com/2072-4292/14/9/2025)
 - [Stefanović, M., Djan, M., Veličković, N. et al. Purifying selection shaping the evolution of the Toll-like receptor 2 TIR domain in brown hares (Lepus europaeus) from Europe and the Middle East. Mol Biol Rep 2020, 47, 2975–2984.](https://doi.org/10.1007/s11033-020-05382-x)
 - [Stefanović M, Djan M, Veličković N, Beuković D, Lavadinović V, Zhelev CD, et al. Positive selection and precipitation effects on the mitochondrial NADH dehydrogenase subunit 6 gene in brown hares (Lepus europaeus) under a phylogeographic perspective. PLoS ONE 2019, 14(11): e0224902.](https://doi.org/10.1371/journal.pone.0224902)
@@ -22,7 +22,7 @@
 - [Říčanová, Š., Bryja, J., Cosson, JF. Csongor G.,..., Sedlacek F. Depleted genetic variation of the European ground squirrel in Central Europe in both microsatellites and the major histocompatibility complex gene: implications for conservation. Conserv Genet, 2011, 12, 1115–1129.](https://doi.org/10.1007/s10592-011-0213-1)
 - [Csongor I. Gedeon, Gábor Markó, István Németh, Viktor Nyitrai, Vilmos Altbäcker, Nest material selection affects nest insulation quality for the European ground squirrel (Spermophilus citellus), Journal of Mammalogy, 2010, Volume 91, Issue 3, 16 June 2010, Pages 636–641](https://doi.org/10.1644/09-MAMM-A-089.1)
 
-  Soil fauna ecology
+### Soil fauna ecology
 - [Sara Sadeghi, Billi Jean Petermann, Joshua J. Steffan, Eric C. Brevik, Csongor Gedeon, Predicting microbial responses to changes in soil physical and chemical properties under different land management, Applied Soil Ecology, Volume 188, 2023, 104878, ISSN 0929-1393, https://doi.org/10.1016/j.apsoil.2023.104878.](https://www.sciencedirect.com/science/article/pii/S0929139323000768)
 - [Pereg, L., Steffan, J.J., Gedeon, C., Thomas, P., Brevik, E.C. Medical Geology of Soil Ecology. In: Siegel, M., Selinus, O., Finkelman, R. (eds) Practical Applications of Medical Geology. Springer, Cham., 2021](https://doi.org/10.1007/978-3-030-53893-4_12)
 - [Eric C. Brevik, Lily Pereg, Paulo Pereira, Joshua J. Steffan, Lynn C. Burgess, Csongor I. Gedeon, Shelter, clothing, and fuel: Often overlooked links between soils, ecosystem services, and human health, Science of The Total Environment, Volume 651, Part 1, 2019, Pages 134-142, ISSN 0048-9697](https://doi.org/10.1016/j.scitotenv.2018.09.158)
@@ -31,7 +31,6 @@
 - [Dudás, P., Menyhárt, L., Gedeon, C., Ambrus, G., & Tóth, F. The effect of hay mulching on soil temperature and the abundance and diversity of soil-dwelling arthropods in potato fields. EJE, 2016, 113, Article 456-461.](https://doi.org/10.14411/eje.2016.059)
 - [Dudás, P., Gedeon, C., Menyhárt, L., Ambrus, G., & Tóth, F. The effect of mulching on the abundance and diversity of ground beetle assemblages in two hungarian potato fields. Columella: Journal of Agricultural and Environmental Sciences, 2016, 3(1), 45-53.](https://journal.uni-mate.hu/index.php/columella/article/view/2720)
 - [Bánszegi, O., Bognár, E., Gedeon, C., & Dombos, M. (2014). Detecting soil microbial activity via an electrochemical activity sensor. Agrokémia és Talajtan, 63(1), 175-179.](https://doi.org/10.1556/agrokem.63.2014.1.19)
-- 
   
 # Teaching (last 5 years)
 - University of Dubuque, Dubuque, Iowa, USA
