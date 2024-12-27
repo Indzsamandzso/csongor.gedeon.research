@@ -15,6 +15,9 @@
 - [Stefanović M, Djan M, Veličković N, Beuković D, Lavadinović V, Zhelev CD, et al. (2019) Positive selection and precipitation effects on the mitochondrial NADH dehydrogenase subunit 6 gene in brown hares (Lepus europaeus) under a phylogeographic perspective. PLoS ONE 14(11): e0224902.](https://doi.org/10.1371/journal.pone.0224902)
 - [Eric C. Brevik, Lily Pereg, Paulo Pereira, Joshua J. Steffan, Lynn C. Burgess, Csongor I. Gedeon, Shelter, clothing, and fuel: Often overlooked links between soils, ecosystem services, and human health, Science of The Total Environment, Volume 651, Part 1, 2019, Pages 134-142, ISSN 0048-9697](https://doi.org/10.1016/j.scitotenv.2018.09.158)
 - [Gedeon, C. I., Hoffmann, I. E., Váczi, O., Knauer, F., Ben Slimen, H., Stefanović, M. ... Suchentrunk, F. (2017). The role of landscape history in determining allelic richness of European ground squirrels (Spermophilus citellus) in Central Europe. Hystrix, the Italian Journal of Mammalogy, 28(2), 231-239.](https://doi.org/10.4404/hystrix-28.2-11823)
+- [Gedeon CI, Flórián N, Liszli P, Hambek-Oláh B, Bánszegi O, Schellenberger J, Dombos M. An Opto-Electronic Sensor for Detecting Soil Microarthropods and Estimating Their Size in Field Conditions. Sensors. 2017; 17(8):1757.](https://doi.org/10.3390/s17081757)
+- [Dombos, M., Kosztolányi, A., Szlávecz, K., Gedeon, C., Flórián, N., Groó, Z., Dudás, P. and Bánszegi, O. (2017), EDAPHOLOG monitoring system: automatic, real-time detection of soil microarthropods. Methods Ecol Evol, 8: 313-321.](https://doi.org/10.1111/2041-210X.12662)
+- [Dudás, P., Menyhárt, L., Gedeon, C., Ambrus, G., & Tóth, F. (2016). The effect of hay mulching on soil temperature and the abundance and diversity of soil-dwelling arthropods in potato fields. EJE, 113, Article 456-461.](https://doi.org/10.14411/eje.2016.059)  
 # Teaching (last 5 years)
 - University of Dubuque, Dubuque, Iowa, USA
 
