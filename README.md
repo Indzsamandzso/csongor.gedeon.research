@@ -16,6 +16,7 @@
 - [Gedeon, C. I., Hoffmann, I. E., Váczi, O., Knauer, F., Ben Slimen, H., Stefanović, M. ... Suchentrunk, F. (2017). The role of landscape history in determining allelic richness of European ground squirrels (Spermophilus citellus) in Central Europe. Hystrix, the Italian Journal of Mammalogy, 28(2), 231-239.](https://doi.org/10.4404/hystrix-28.2-11823)
 # Teaching
 - University of Dubuque, Dubuque, Iowa, USA
+
   Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
   
   Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits,
