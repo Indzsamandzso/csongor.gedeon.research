@@ -3,7 +3,7 @@
 # Biography
 - CV (https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - Biography
-- ORCID: 0000-0003-4027-2409; ResearchGate https://www.researchgate.net/profile/Csongor-Gedeon; Google Scholar https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en
+- ORCID https://orcid.org/0000-0003-4027-2409; ResearchGate https://www.researchgate.net/profile/Csongor-Gedeon; Google Scholar https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en
 
 # Research Interests (last 5 years)
 
