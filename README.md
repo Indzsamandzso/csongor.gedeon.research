@@ -3,8 +3,9 @@
 # Biography
 - CV
 - Biography
+- ORCID: 0000-0003-4027-2409; ResearchGate: Csongor Gedeon; Google Scholar: https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en
 
-# Research Interests
+# Research Interests (last 5 years)
 
 # Publications
 - [Gedeon CI, Árvai M, Szatmári G, Brevik EC, Takáts T, Kovács ZA, Mészáros J. Identification and Counting of European Souslik Burrows from UAV Images by Pixel-Based Image Analysis and Random Forest Classification: A Simple, Semi-Automated, yet Accurate Method for Estimating Population Size. Remote Sensing. 2022; 14(9):2025.(https://doi.org/10.3390/rs14092025](https://www.mdpi.com/2072-4292/14/9/2025)
@@ -14,7 +15,7 @@
 - [Stefanović M, Djan M, Veličković N, Beuković D, Lavadinović V, Zhelev CD, et al. (2019) Positive selection and precipitation effects on the mitochondrial NADH dehydrogenase subunit 6 gene in brown hares (Lepus europaeus) under a phylogeographic perspective. PLoS ONE 14(11): e0224902.](https://doi.org/10.1371/journal.pone.0224902)
 - [Eric C. Brevik, Lily Pereg, Paulo Pereira, Joshua J. Steffan, Lynn C. Burgess, Csongor I. Gedeon, Shelter, clothing, and fuel: Often overlooked links between soils, ecosystem services, and human health, Science of The Total Environment, Volume 651, Part 1, 2019, Pages 134-142, ISSN 0048-9697](https://doi.org/10.1016/j.scitotenv.2018.09.158)
 - [Gedeon, C. I., Hoffmann, I. E., Váczi, O., Knauer, F., Ben Slimen, H., Stefanović, M. ... Suchentrunk, F. (2017). The role of landscape history in determining allelic richness of European ground squirrels (Spermophilus citellus) in Central Europe. Hystrix, the Italian Journal of Mammalogy, 28(2), 231-239.](https://doi.org/10.4404/hystrix-28.2-11823)
-# Teaching
+# Teaching (last 5 years)
 - University of Dubuque, Dubuque, Iowa, USA
 
   Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
