@@ -1,4 +1,4 @@
-# csongor.gedeon.research
+# Dr Csongor I. Gedeon
 
 # Biography
 - CV
