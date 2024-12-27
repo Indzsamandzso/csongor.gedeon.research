@@ -8,6 +8,7 @@
 # Research Interests (last 5 years)
 
 # Publications
+## Published papers
   Conservation and behavioural ecology, natural history, conservation genetics, and reintroduction biology of European ground squirrels and species alike: 
 - [Gedeon CI, Árvai M, Szatmári G, Brevik EC, Takáts T, Kovács ZA, Mészáros J. Identification and Counting of European Souslik Burrows from UAV Images by Pixel-Based Image Analysis and Random Forest Classification: A Simple, Semi-Automated, yet Accurate Method for Estimating Population Size. Remote Sensing. 2022, 14(9):2025.(https://doi.org/10.3390/rs14092025](https://www.mdpi.com/2072-4292/14/9/2025)
 - [Stefanović, M., Djan, M., Veličković, N. et al. Purifying selection shaping the evolution of the Toll-like receptor 2 TIR domain in brown hares (Lepus europaeus) from Europe and the Middle East. Mol Biol Rep 2020, 47, 2975–2984.](https://doi.org/10.1007/s11033-020-05382-x)
