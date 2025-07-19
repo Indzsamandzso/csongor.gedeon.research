@@ -1,6 +1,11 @@
 # Dr Csongor I. Gedeon
 
 # Biography
+- [Conservation ecologist (professional naturalist) interested in studying the population dynamics of burrowing mammals and developing novel, non-destructive estimation methods of their abundance by combining proximal sensing and statistical tools. His research has particular emphasis on using research results in on-the-ground conservation of endangered burrowing mammals, such as ground squirrels or mole-rats.  Proximal sensing tools and methods include UAV, GPR combined with deep or statistical learning methods.
+
+Thesis announcer at the Doctorate School of Environmental Sciences at Eötvös Loránd University, Budapest (open for candidates, see details at ELTE's webpage).
+
+He has gained experience in conducting research at Dickinson State University (2018), Northern Arizona University (2004/05), Kyoto University (2014-2014), and at the University of Vienna and Research Institute of Wildlife Ecology (Veterinary University of Vienna). In 2023/24 he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates.]
 - [CV](https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - [Biography]()
 - [ORCID](https://orcid.org/0000-0003-4027-2409)
