@@ -5,7 +5,8 @@
 
   Thesis announcer at the Doctorate School of Environmental Sciences at Eötvös Loránd University, Budapest (open for candidates, see details at ELTE's webpage).
 
-  He has gained experience in conducting research at Dickinson State University (2018), Northern Arizona University (2004/05), Kyoto University (2014-2014), and at the University   of Vienna and Research Institute of Wildlife Ecology (Veterinary University of Vienna). In 2023/24 he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates.]
+  He has gained experience in state nature conservation as a state ranger (wildlife manager and game warden) and conducting research at Dickinson State University (2018),   Northern Arizona University (2004/05), Kyoto University (2014-2014), and at the University of Vienna and Research Institute of Wildlife Ecology (Veterinary University of Vienna). In 2023/24 he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates.]
+  
 - [CV](https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - [Biography]()
 - [ORCID](https://orcid.org/0000-0003-4027-2409)
