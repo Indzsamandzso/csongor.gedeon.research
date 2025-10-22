@@ -5,7 +5,7 @@
 
 - Thesis and course, Soil Fauna Ecology, announcer at the Doctorate School of Environmental Sciences at Eötvös Loránd University, Budapest (open for candidates, see details at ELTE's webpage).
 
-- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2014-2014), and Dickinson State University (2018). He has an active collaboration with Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright, ÖAD, JSPS, ESF grants or scholarships have provided support of those researh studies. In 2023/24, he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates.
+- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2014-2014), and Dickinson State University (2018). He has an active collaboration with Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright, ÖAD, JSPS, ESF grants or scholarships have provided support of those researh studies. In 2023/24, he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates. In 2025, he was able to collaborate with Professor Ferdinand Bego, University of Tirana (Western Balkan/ Visegrad 4 grant) surveying mole-rat colonies in the mountainous areas of Albania, and Ben Swallow, University of St. Andrews, spatial modelling/ mapping of mole-rat burrows (Royal Society of Edinburgh, Bilateral Exchange Programme, research award).  
   
 - [CV](https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - [Biography]()
@@ -14,6 +14,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en)
 
 # Research Interests (last 5 years)
+- Conservation ecologist interested in studying the population dynamics of burrowing mammals and developing novel, non-destructive estimation methods of their abundance or soil mixing, burrowing acitivity by combining proximal sensing and statistical tools. His research has particular emphasis on using research results in on-the-ground conservation of endangered burrowing mammals, such as ground squirrels or mole-rats. Proximal sensing tools and methods include UAV and GPR combined with deep or statistical learning methods.
 
 # Publications
 ## Published papers/chapter, etc. (grouped by topic)
