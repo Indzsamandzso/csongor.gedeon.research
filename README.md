@@ -12,9 +12,6 @@
 # Research Interests (last 5 years)
 - Conservation ecologist (professional naturalist) interested in studying the population dynamics of burrowing mammals and developing novel, non-destructive estimation methods of their abundance. Other aspect of his research includes 3D mapping of animal burrows non-destructively. Both topics include combining proximal sensing (UAV, GPR), statistical, and 3D modelling tools and methods. His research has particular emphasis on using research results in on-the-ground conservation or management of (endangered) burrowing mammals, such as ground squirrels or mole-rats. 
 
-# Teaching
-- Doctorate thesis and course Soil Fauna Ecology announcer at the Doctorate School of Environmental Sciences at Eötvös Loránd University, Budapest (open for candidates, see details at ELTE's webpage).
-
 # Work
 - Project coordinator of the LIFE-2024-SAP-NAT-HU-CitellusLIFE project (87 months, No: 101202727).
 - Senior Research Associate at the Institute for Soil Sciences, HUN-REN CAR.
@@ -51,7 +48,7 @@
   - Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
   - Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits,
   - Summer Course (Semester), EVS475 Science Research Techniques (Laboratory), 1 credit
-- Thesis and course announcer at the Doctoral School of Environmental Sciences at Eötvös Loránd University, Budapest, Hungary.
+- Thesis and course announcer at the Doctoral School of Environmental Sciences at Eötvös Loránd University, Budapest, Hungary. (open for candidates, see details at ELTE's webpage).
   
 # Other/ comments
 - Practice in GPR surveys, data processing, and interpretation; ground squirrel translocations.
