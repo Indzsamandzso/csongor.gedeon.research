@@ -1,7 +1,7 @@
 # Dr Csongor I. Gedeon
 
 # Biography
-- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2014-2014), and Dickinson State University (2018). He has an active collaboration with Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright, ÖAD, JSPS, ESF grants or scholarships have provided support of those researh studies. In 2023/24, he was a Fulbright SIR at the University of Dubuque teaching Soil Fauna Ecology for undergraduates. In 2025, he was able to collaborate with Professor Ferdinand Bego, University of Tirana (Western Balkan/ V4 grant) surveying mole-rat colonies in the mountainous areas of Albania, and Ben Swallow, University of St. Andrews, spatial modelling/ mapping of mole-rat burrows (MTA and Royal Society of Edinburgh, Bilateral Exchange Programme, research award). 
+- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2012-2014), and Dickinson State University (2018). He has an active collaboration with Dr Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright (USA), ÖAD (Austria), JSPS (Japan), ESF (EU) grants or scholarships have provided support for his researh studies. In 2023/24, he was a Fulbright Scholar-in-Residence at the University of Dubuque (Iowa) teaching Soil Fauna Ecology for undergraduates. In 2025, he was able to collaborate with Professor Ferdinand Bego, University of Tirana (Western Balkan/ V4 grant) surveying mole-rat colonies in the mountainous areas of Albania, and Dr Ben Swallow, University of St. Andrews, modelling/ mapping mole-rat burrows (MTA and Royal Society of Edinburgh, Bilateral Exchange Programme, research award). 
   
 - [CV](https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - [Biography]()
@@ -12,8 +12,8 @@
 # Research Interests (last 5 years)
 - Conservation ecologist (professional naturalist) interested in studying the population dynamics of burrowing mammals and developing novel, non-destructive estimation methods of their abundance. Other aspect of his research includes 3D mapping of animal burrows non-destructively. Both topics include combining proximal sensing (UAV, GPR), statistical, and 3D modelling tools and methods. His research has particular emphasis on using research results in on-the-ground conservation or management of (endangered) burrowing mammals, such as ground squirrels or mole-rats. 
 
-# Work
-- Project coordinator of the LIFE-2024-SAP-NAT-HU-CitellusLIFE project (87 months, No: 101202727).
+# Work (current)
+- Project coordinator of the LIFE-2024-SAP-NAT-HU-CitellusLIFE project (87 months, No: 101202727) at the Herman Ottó Institute Non-profit Ltd.
 - Senior Research Associate at the Institute for Soil Sciences, HUN-REN CAR.
 
 # Publications
@@ -45,9 +45,9 @@
   
 # Teaching (last 5 years)
 - University of Dubuque, Dubuque, Iowa, USA.
-  - Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
-  - Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits,
-  - Summer Course (Semester), EVS475 Science Research Techniques (Laboratory), 1 credit
+- Fall Semester, ESC115 Physical Geology (Laboratory), 4 credits, Co-teaching with Professor Dale Easley
+- Spring Semester, EVS357 Soil Fauna Ecology (Lecture), 3 credits,
+- Summer Course (Semester), EVS475 Science Research Techniques (Laboratory), 1 credit
 - Thesis and course announcer at the Doctoral School of Environmental Sciences at Eötvös Loránd University, Budapest, Hungary. (open for candidates, see details at ELTE's webpage).
   
 # Other/ comments
