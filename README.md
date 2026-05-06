@@ -52,4 +52,4 @@
 - Thesis and course announcer at the Doctoral School of Environmental Sciences at Eötvös Loránd University, Budapest, Hungary. (open for candidates, see details at ELTE's webpage).
   
 # Other/ comments
-- Practice in GPR surveys, data processing, and interpretation; ground squirrel translocations.
+- Practice in surveys (3D-grid), 3D processing, and interpretation of GPR data (Radan7); ground squirrel translocations.
