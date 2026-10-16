@@ -1,7 +1,7 @@
 # Dr Csongor I. Gedeon
 
 # Biography
-- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2012-2014), and Dickinson State University (2018). He has an active collaboration with Dr Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright (USA), ÖAD (Austria), JSPS (Japan), ESF (EU) grants or scholarships have provided support for his researh studies. In 2023/24, he was a Fulbright Scholar-in-Residence at the University of Dubuque (Iowa) teaching Soil Fauna Ecology for undergraduates. In 2025, he was able to collaborate with Professor Ferdinand Bego, University of Tirana (Western Balkan/ V4 grant) surveying mole-rat colonies in the mountainous areas of Albania, and Dr Ben Swallow, University of St. Andrews, modelling/ mapping mole-rat burrows (MTA and Royal Society of Edinburgh, Bilateral Exchange Programme, research award). 
+- He has gained experience in nature conservation as a national park state ranger (wildlife manager and game warden) and later in academics as a researcher conducting research at Northern Arizona University (2004/05), University of Vienna (2005/2006), Kyoto University (2012-2014), and Dickinson State University (2018). He has an active collaboration with Dr Franz Suchentrunk (Research Institute of Wildlife Ecology, Veterinary University of Vienna). Fulbright (USA), ÖAD (Austria), JSPS (Japan), ESF (EU) grants or scholarships have provided support for his researh studies. In 2023/24, he was a Fulbright Scholar-in-Residence at the University of Dubuque (Iowa) teaching Soil Fauna Ecology for undergraduates. In 2025, he collaborated with Professor Ferdinand Bego, University of Tirana (Western Balkan/ V4 grant) surveying mole-rat colonies in the mountainous areas of Albania, and Dr Ben Swallow, University of St. Andrews, modelling/ mapping mole-rat burrows (MTA and Royal Society of Edinburgh, Bilateral Exchange Programme, research award). Since 2026, he has been the Specialist and Project Coordinator of CitellusLIFE (101202727) EU funded project. He has also been involved in the Doctorate School of Env. Sciences at Eötvös L. university as a thesis and course announcer. 
   
 - [CV](https://atk.hun-ren.hu/hu/munkatarsak/gedeon-csongor/)
 - [Biography]()
@@ -10,11 +10,11 @@
 - [Google Scholar](https://scholar.google.com/citations?user=50rZJ6cAAAAJ&hl=en)
 
 # Research Interests (last 5 years)
-- Conservation ecologist (professional naturalist) interested in studying the population dynamics of burrowing mammals and developing novel, non-destructive estimation methods of their abundance. Other aspect of his research includes 3D mapping of animal burrows non-destructively. Both topics include combining proximal sensing (UAV, GPR), statistical, and 3D modelling tools and methods. His research has particular emphasis on using research results in on-the-ground conservation or management of (endangered) burrowing mammals, such as ground squirrels or mole-rats. 
+- Conservation ecologist (professional naturalist) interested in studying the population dynamics of ecosystem engineer burrowing mammals and developing novel, non-destructive estimation methods of their abundance. Other aspect of his research includes 3D mapping of animal burrows non-destructively. Both topics include combining proximal sensing (UAV, GPR), statistical, and 3D modelling tools and methods. His research has particular emphasis on using research results in on-the-ground conservation or management of (endangered) burrowing mammals, such as ground squirrels or mole-rats. 
 
 # Work (current)
-- Project coordinator of the LIFE-2024-SAP-NAT-HU-CitellusLIFE project (87 months, No: 101202727) at the Herman Ottó Institute Non-profit Ltd.
-- Senior Research Associate at the Institute for Soil Sciences, HUN-REN CAR.
+- Project Coordinator & Specialist of the LIFE-2024-SAP-NAT-HU-CitellusLIFE project (87 months, No: 101202727) at the Herman Ottó Institute Non-profit Ltd.
+- Senior Research Associate at the Institute for Soil Sciences, HUN-REN CAR (Dep. Soil Mapping and Environmental Informatics).
 
 # Publications
 ## Published papers/chapter, etc. (grouped by topic)
@@ -54,3 +54,4 @@
   
 # Other/ comments
 - Practice in surveys (3D-grid), 3D processing, and interpretation of GPR data (Radan7); ground squirrel translocations.
+- Reviewing of scientific manuscripts or books in my field of research, knowledge.
